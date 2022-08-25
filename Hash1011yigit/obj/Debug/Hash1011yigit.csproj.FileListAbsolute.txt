@@ -1,0 +1,10 @@
+C:\Users\ygtps\source\repos\Hash1011yigit\bin\Debug\Hash1011yigit.exe.config
+C:\Users\ygtps\source\repos\Hash1011yigit\bin\Debug\Hash1011yigit.exe
+C:\Users\ygtps\source\repos\Hash1011yigit\bin\Debug\Hash1011yigit.pdb
+C:\Users\ygtps\source\repos\Hash1011yigit\obj\Debug\Hash1011yigit.csprojAssemblyReference.cache
+C:\Users\ygtps\source\repos\Hash1011yigit\obj\Debug\Hash1011yigit.Form1.resources
+C:\Users\ygtps\source\repos\Hash1011yigit\obj\Debug\Hash1011yigit.Properties.Resources.resources
+C:\Users\ygtps\source\repos\Hash1011yigit\obj\Debug\Hash1011yigit.csproj.GenerateResource.cache
+C:\Users\ygtps\source\repos\Hash1011yigit\obj\Debug\Hash1011yigit.csproj.CoreCompileInputs.cache
+C:\Users\ygtps\source\repos\Hash1011yigit\obj\Debug\Hash1011yigit.exe
+C:\Users\ygtps\source\repos\Hash1011yigit\obj\Debug\Hash1011yigit.pdb
